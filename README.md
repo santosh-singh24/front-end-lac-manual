@@ -1,1 +1,1 @@
-# front-end-lac-manual
+# front-end-lab-manual
